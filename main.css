@@ -1,0 +1,116 @@
+body{
+    font-size: 16px;
+}
+
+.test{
+    border: 1px solid black;
+}
+
+.navbar-nav > a {
+    color: #ee0606;
+    margin-right: 54px;
+}
+
+
+.navbar-nav > a:hover{
+    color: #4a8fce;
+}
+
+.navbar-nav > a:active{
+    color: #4a8fce;
+}
+
+nav>ul{
+    margin-top: 38px;
+}
+
+
+nav{
+    height: 86px;
+}
+
+.banner{
+    height: 932px;
+}
+
+.service{
+    height: 822px;
+}
+
+.service-img{
+    padding-top: 134px;
+    padding-right: 108px;
+}
+
+.service-desc{
+    margin-top: 134px;
+    margin-left: 40px;
+}
+.service-desc h4{
+    font-size: 22px;
+    color: #4a8fce;
+    padding-bottom: 12px;
+}
+
+.service-desc h5{
+    font-size: 14px;
+    color: #999999;
+    padding-bottom: 42px;
+}
+
+.service-desc p{
+    font-size: 13px;
+    color: #7f7f7f;
+    padding-bottom: 78px;
+}
+
+
+.service-title{
+    height:168px;
+    margin-left: 360px;
+}
+
+.service-title > h5{
+    padding-top: 96px;
+}
+
+.project{
+    height: 976px;
+}
+
+.news{
+    height: 612px;
+}
+
+.contact{
+    background: hsl(0, 0%, 97%);
+    height: 276px;
+}
+
+.contact-us{
+    margin-top: 72px;
+    margin-right: 330px;
+}
+.follow-us{
+    margin-top: 94px;
+}
+.social > a{
+    margin-right: 14px;
+}
+
+.navbar-brand > img{
+    margin-right: 1rem;
+}
+
+.intro{
+    background-image: url(/public/img/bg-intro.png);
+    height: 932px;
+    color: #ffffffe8;
+}
+
+footer{
+    background: #005caf;
+    height: 78px;
+    font-size: 12px;
+    color: #012e57;
+}
